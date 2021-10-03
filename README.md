@@ -6,6 +6,7 @@ To download this project:
    2. Download zip
    - Click on green button "Code"
    - Choose "Download ZIP"
+
 To run this project
    1. Install python: https://www.python.org/downloads/
    - To check python version: type "python --version" in cmd
